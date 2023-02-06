@@ -1,14 +1,16 @@
 .container{
-    margin-top: 40px;
     background-color: rgb(102, 205, 145);
-    padding: 15px;
+    padding: 12px;
     border-radius: 30px;
+    width: 30%;
+    margin: 40px auto;
 }
 .con2{
-  margin-top: 40px;
   background-color: #dc8888;
-  padding: 15px;
-    border-radius: 30px;
+  padding: 12px;
+  border-radius: 30px;
+  width: 30%;
+  margin: 40px auto;
 }
 .btnstyle{
   background-color: #cd3030;

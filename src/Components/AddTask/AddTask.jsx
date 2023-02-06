@@ -17,7 +17,8 @@ class AddTask extends Component {
           type="text"
           value={this.state.inputText}
           onChange={(event) => this.setState({ inputText: event.target.value })}
-        /> &nbsp;
+        /> 
+        <br/>
         <button type="submit" className='btn'>Add Task</button>
       </form>
     );
