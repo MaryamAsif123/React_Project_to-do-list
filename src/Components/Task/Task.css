@@ -1,0 +1,30 @@
+.container{
+    margin-top: 40px;
+    background-color: rgb(102, 205, 145);
+    padding: 15px;
+    border-radius: 30px;
+}
+.con2{
+  margin-top: 40px;
+  background-color: #dc8888;
+  padding: 15px;
+    border-radius: 30px;
+}
+.btnstyle{
+  background-color: #cd3030;
+  border: none;
+  border-radius: 30%;
+  padding-bottom: 5px;
+  margin-left: 10px;
+  color: white;
+  font-size: 18px;
+
+}
+.btns{
+    background-color: #177420;
+    border: none;
+    border-radius: 30%;
+    padding-bottom: 5px;
+    margin-left: 10px;
+    color: white;
+  }
